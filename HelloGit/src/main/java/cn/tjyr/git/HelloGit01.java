@@ -5,5 +5,6 @@ public class HelloGit01 {
     // 测试git
     System.out.println("测试git");
     System.out.println("我在线修改了你的代码");
+    System.out.println("我知道了");
   }
 }
